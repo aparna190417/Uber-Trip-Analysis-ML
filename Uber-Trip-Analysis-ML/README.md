@@ -1,7 +1,5 @@
 # Uber Trip Analysis using Machine Learning
 
-# Uber Trip Analysis & Demand Prediction (ML)
-
 This project analyzes Uber trip demand using historical trip data (Jan–Feb).  
 It focuses on identifying demand patterns over time, the relationship between trips and active vehicles, and finally builds a machine learning model to predict trip demand.
 
