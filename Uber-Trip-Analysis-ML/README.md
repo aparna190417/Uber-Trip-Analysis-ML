@@ -87,7 +87,13 @@ Uber-Trip-Analysis-ML/
 
 ![Weekday wise demand](images/eda/04_weekday_demand.png)
 
+![Correlation Heatmap](images/eda/05_correlation_heatmap.png)
+
+![Moving Average Trend](images/eda/06_trips_moving_avg.png)
+
 ![Actual vs Predicted](images/ml/01_actual_vs_predicted_sorted_date.png)
+
+![Error Distribution](images/ml/02_error_distribution.png)
 
 ---
 
