@@ -3,6 +3,8 @@
 This project analyzes Uber trip demand using historical trip data (Jan–Feb).  
 It focuses on identifying demand patterns over time, the relationship between trips and active vehicles, and finally builds a machine learning model to predict trip demand.
 
+Along with ML analysis, a professional Power BI interactive dashboard** is also created (HR/Industry-level layout with tabs: Overview, Base Analysis, Prediction).
+
 ---
 
 ## What this project includes
@@ -13,6 +15,7 @@ It focuses on identifying demand patterns over time, the relationship between tr
 - Relationship analysis between trips and active vehicles
 - Machine Learning model for trip demand prediction
 - Model evaluation and performance plots
+- Power BI Dashboard (PBIX) with interactive tabs + slicers + forecast
 
 ---
 
