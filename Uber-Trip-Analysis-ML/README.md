@@ -66,6 +66,7 @@ The dataset contains daily records with fields like:
 ## Folder structure
 
 Uber-Trip-Analysis-ML/
+|── powerbi_dashboard/
 │── notebook/
 │── data/
 │── images/
@@ -94,6 +95,32 @@ Uber-Trip-Analysis-ML/
 ![Actual vs Predicted](images/ml/01_actual_vs_predicted_sorted_date.png)
 
 ![Error Distribution](images/ml/02_error_distribution.png)
+
+---
+
+## Power BI Dashboard 
+
+A professional **Power BI dashboard** has been created with interactive navigation tabs:
+
+✅ **Overview** (KPIs + Trend + Weekday + Month distribution + Top bases)  
+✅ **Base Analysis** (Top bases + Heatmap + Base contribution + Trend by base)  
+✅ **Prediction** (Trips forecast + Breakdown analysis + Key influencers)
+
+- Dashboard file:
+- `powerbi_dashboard/Uber_Trip_Analysis_Dashboard.pbix`
+
+---
+
+## Power BI Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](powerbi_dashboard/dashboard_overview.png)
+
+### Base Analysis
+![Dashboard Base Analysis](powerbi_dashboard/dashboard_base_analysis.png)
+
+### Prediction
+![Dashboard Prediction](powerbi_dashboard/dashboard_prediction.png)
 
 ---
 
