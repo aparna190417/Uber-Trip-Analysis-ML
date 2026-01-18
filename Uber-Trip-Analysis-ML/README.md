@@ -117,7 +117,7 @@ A professional **Power BI dashboard** has been created with interactive navigati
 ![Dashboard Overview](PowerBi_Dashboard/dashboard_overview.png)
 
 ### Base Analysis
-![Dashboard Base Analysis](PowerBi_Dashboard/ashboard_base_analysis.png)
+![Dashboard Base Analysis](PowerBi_Dashboard/dashboard_base_analysis.png)
 
 ### Prediction
 ![Dashboard Prediction](PowerBi_Dashboard/dashboard_prediction.png)
