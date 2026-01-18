@@ -114,13 +114,13 @@ A professional **Power BI dashboard** has been created with interactive navigati
 ## Power BI Dashboard Screenshots
 
 ### Overview
-![Dashboard Overview](powerbi_dashboard/dashboard_overview.png)
+![Dashboard Overview](PowerBi_Dashboard/dashboard_overview.png)
 
 ### Base Analysis
-![Dashboard Base Analysis](powerbi_dashboard/dashboard_base_analysis.png)
+![Dashboard Base Analysis](PowerBi_Dashboard/ashboard_base_analysis.png)
 
 ### Prediction
-![Dashboard Prediction](powerbi_dashboard/dashboard_prediction.png)
+![Dashboard Prediction](PowerBi_Dashboard/dashboard_prediction.png)
 
 ---
 
